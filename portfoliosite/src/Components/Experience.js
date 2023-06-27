@@ -2,7 +2,11 @@ import React from 'react'
 
 const Experience = () => {
   return (
-    <div>Experience</div>
+    <section>
+      <ul>
+        <li>Experience will go here</li>
+      </ul>
+    </section>
   )
 }
 

@@ -2,7 +2,9 @@ import React from 'react'
 
 const Projects = () => {
   return (
-    <div>Projects</div>
+    <section>
+      <p>Portfolio Projects will go here as they are completed</p>
+    </section>
   )
 }
 
